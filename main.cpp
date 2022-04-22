@@ -96,7 +96,7 @@ int main() {
 
     //TODO Sort the words of the English Dictionary using a Bucket Sort algorithm and store the results in sorted_word_list
     vector<string> sorted_word_list;
-    int bucket_size = 20;
+    int bucket_size = 100;
     vector<vector<string>> buckets(bucket_size);
     for (unsigned int i = 0; i < word_list.size(); i++) {
         int bucket_id = word_list[i].length() % bucket_size;
