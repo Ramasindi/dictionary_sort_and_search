@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1456226925 source:e:\dropbox\subjects\amd3a11\lecture presentations\examples 3b\4 - header files\project\main.cpp
+	<iostream>
+	"sphere.h"
+
+1456226757 e:\dropbox\subjects\amd3a11\lecture presentations\examples 3b\4 - header files\project\sphere.h
+
+1456226951 source:e:\dropbox\subjects\amd3a11\lecture presentations\examples 3b\4 - header files\project\sphere.cpp
+	"sphere.h"
+	<cmath>
+	<iostream>
+
+1459597311 source:d:\dropbox\subjects\amd3a11\lecture presentations\examples 6\1 - openmp - helloworld\main.cpp
+	<iostream>
+	<omp.h>
+	<stdio.h>
+
+1459670776 source:d:\dropbox\subjects\amd3a11\lecture presentations\examples 6\2 - openmp - parallel for\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<omp.h>
+
+1523969540 source:c:\users\yuko roodt\dropbox\subjects\amd3a11\2018\practical assessments\practical 5\solution code\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<omp.h>
+
+1618959168 source:e:\zzz\uj\amd3a\2021\practicals\prac_4\starting_code\start_here\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<omp.h>
+
+1650650469 source:c:\users\thalukanyo\downloads\startup code\starting_code\prac_4\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<omp.h>
+
